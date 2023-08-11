@@ -1,0 +1,37 @@
+,g1,g2,Term,logp
+21,S_50ppm_1h,S_con_1h,glutathione metabolic process (GO:0006749),2.16118110978945
+30,S_50ppm_1h,S_con_1h,defense response to bacterium (GO:0042742),2.54569765074499
+51,S_50ppm_1h,S_con_1h,defense response to Gram-negative bacterium (GO:0050829),2.59972477072681
+4,S_50ppm_1h,S_con_1h,cysteine biosynthetic process from serine (GO:0006535),3.29220385391976
+1,S_50ppm_1h,S_con_1h,cysteine biosynthetic process (GO:0019344),4.13649247206914
+2,S_50ppm_1h,S_con_1h,L-serine metabolic process (GO:0006563),4.13649247206914
+111,S_150ppm_1h,S_con_1h,cysteine biosynthetic process (GO:0019344),2.05890920071047
+101,S_150ppm_1h,S_con_1h,regulation of cellular response to manganese ion (GO:1905802),2.1516642570002
+81,S_150ppm_1h,S_con_1h,cysteine biosynthetic process from serine (GO:0006535),2.37742253727546
+53,S_150ppm_1h,S_con_1h,defense response to Gram-negative bacterium (GO:0050829),2.60673284591189
+22,S_150ppm_1h,S_con_1h,L-serine metabolic process (GO:0006563),3.47398788457696
+62,S_50ppm_2h,S_con_2h,L-serine metabolic process (GO:0006563),2.92253695995064
+37,S_150ppm_2h,S_con_2h,cysteine biosynthetic process (GO:0019344),3.21002446680261
+28,S_150ppm_2h,S_con_2h,cysteine biosynthetic process from serine (GO:0006535),3.72779908594263
+16,S_150ppm_2h,S_con_2h,L-serine metabolic process (GO:0006563),4.71543162256951
+142,S_150ppm_2h,S_con_2h,defense response to Gram-negative bacterium (GO:0050829),5.15956468327193
+64,S_50ppm_12h,S_con_12h,defense response to bacterium (GO:0042742),2.94407413980098
+110,S_50ppm_12h,S_con_12h,lipid homeostasis (GO:0055088),3.05379423490845
+331,S_50ppm_12h,S_con_12h,proteolysis (GO:0006508),3.11334567923219
+210,S_150ppm_12h,S_con_12h,cellular transition metal ion homeostasis (GO:0046916),2.94752673315646
+83,S_150ppm_12h,S_con_12h,defense response to Gram-positive bacterium (GO:0050830),3.48319987323495
+45,S_150ppm_12h,S_con_12h,defense response to bacterium (GO:0042742),4.98849080077145
+62,S_50ppm_2h,S_con_2h,L-serine metabolic process (GO:0006563),2.92253695995064
+24,S_50ppm_2h,S_con_2h,aromatic amino acid family catabolic process (GO:0009074),3.01795731074943
+42,S_50ppm_2h,S_con_2h,iron ion homeostasis (GO:0055072),3.01795731074943
+34,S_50ppm_2h,S_con_2h,tyrosine metabolic process (GO:0006570),3.12561152614771
+15,S_50ppm_2h,S_con_2h,inorganic cation import across plasma membrane (GO:0098659),4.04272767484571
+112,S_50ppm_2h,S_con_2h,defense response to Gram-negative bacterium (GO:0050829),4.99334242798734
+54,S_50ppm_2h,S_con_2h,defense response to bacterium (GO:0042742),5.04067864965207
+271,S_50ppm_12h,S_con_12h,defense response to Gram-positive bacterium (GO:0050830),2.28684036883512
+103,S_50ppm_12h,S_con_12h,organic anion transport (GO:0015711),2.32510504566214
+29,S_50ppm_12h,S_con_12h,iron ion homeostasis (GO:0055072),2.3547025810953
+171,S_50ppm_12h,S_con_12h,chemical homeostasis (GO:0048878),2.77705050545499
+64,S_50ppm_12h,S_con_12h,defense response to bacterium (GO:0042742),2.94407413980098
+110,S_50ppm_12h,S_con_12h,lipid homeostasis (GO:0055088),3.05379423490845
+331,S_50ppm_12h,S_con_12h,proteolysis (GO:0006508),3.11334567923219

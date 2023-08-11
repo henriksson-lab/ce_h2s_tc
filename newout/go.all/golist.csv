@@ -1,0 +1,82 @@
+"","g1","g2","Term","logp"
+"11","S_50ppm_1h","S_con_1h","regulation of DNA repair (GO:0006282)",2.02817084015505
+"23","S_50ppm_1h","S_con_1h","inorganic cation import across plasma membrane (GO:0098659)",2.04762538696274
+"18","S_50ppm_1h","S_con_1h","mesodermal cell fate commitment (GO:0001710)",2.2940231499656
+"35","S_50ppm_1h","S_con_1h","neuron migration (GO:0001764)",2.35532586498683
+"19","S_50ppm_1h","S_con_1h","mesodermal cell fate specification (GO:0007501)",2.39039904889387
+"12","S_50ppm_1h","S_con_1h","positive regulation of cell fate specification (GO:0042660)",2.49597160261838
+"17","S_50ppm_1h","S_con_1h","neuron fate specification (GO:0048665)",2.49597160261838
+"53","S_50ppm_1h","S_con_1h","defense response to Gram-negative bacterium (GO:0050829)",2.51639622385629
+"9","S_50ppm_1h","S_con_1h","positive regulation of mesodermal cell differentiation (GO:1905772)",2.61252824428158
+"10","S_50ppm_1h","S_con_1h","positive regulation of mesodermal cell fate specification (GO:0048337)",2.61252824428158
+"14","S_50ppm_1h","S_con_1h","neuron fate commitment (GO:0048663)",2.61252824428158
+"31","S_50ppm_1h","S_con_1h","generation of neurons (GO:0048699)",2.66253884986241
+"8","S_50ppm_1h","S_con_1h","carnitine metabolic process (GO:0009437)",2.74243760172288
+"6","S_50ppm_1h","S_con_1h","aromatic amino acid family catabolic process (GO:0009074)",2.88893502593783
+"26","S_50ppm_1h","S_con_1h","defense response to bacterium (GO:0042742)",2.97314033969113
+"21","S_50ppm_1h","S_con_1h","regulation of mesodermal cell fate specification (GO:0042661)",3.02079236387857
+"4","S_50ppm_1h","S_con_1h","cysteine biosynthetic process from serine (GO:0006535)",3.25230381344554
+"1","S_50ppm_1h","S_con_1h","cysteine biosynthetic process (GO:0019344)",4.08352235295215
+"2","S_50ppm_1h","S_con_1h","L-serine metabolic process (GO:0006563)",4.08352235295215
+"5","S_50ppm_1h","S_con_1h","regulation of protein ubiquitination (GO:0031396)",4.13039370089862
+"7","S_50ppm_1h","S_con_1h","regulation of ubiquitin-protein transferase activity (GO:0051438)",4.13039370089862
+"3","S_50ppm_1h","S_con_1h","regulation of transferase activity (GO:0051338)",4.40434860490626
+"91","S_150ppm_1h","S_con_1h","positive regulation of neuron death (GO:1901216)",2.01951221614033
+"111","S_150ppm_1h","S_con_1h","cysteine biosynthetic process (GO:0019344)",2.01951221614033
+"39","S_150ppm_1h","S_con_1h","regulation of transcription, DNA-templated (GO:0006355)",2.08968017677355
+"61","S_150ppm_1h","S_con_1h","generation of neurons (GO:0048699)",2.09739233717494
+"101","S_150ppm_1h","S_con_1h","regulation of cellular response to manganese ion (GO:1905802)",2.11206614081751
+"71","S_150ppm_1h","S_con_1h","negative regulation of cellular response to manganese ion (GO:1905803)",2.21684899929508
+"81","S_150ppm_1h","S_con_1h","cysteine biosynthetic process from serine (GO:0006535)",2.33742061432634
+"29","S_150ppm_1h","S_con_1h","neuron migration (GO:0001764)",2.4296425522625
+"60","S_150ppm_1h","S_con_1h","defense response to Gram-negative bacterium (GO:0050829)",2.5055038615143
+"15","S_150ppm_1h","S_con_1h","negative regulation of cellular process (GO:0048523)",2.63298020016316
+"41","S_150ppm_1h","S_con_1h","cellular response to topologically incorrect protein (GO:0035967)",3.16052584237247
+"51","S_150ppm_1h","S_con_1h","neuron fate specification (GO:0048665)",3.16052584237247
+"62","S_150ppm_1h","S_con_1h","neuron fate commitment (GO:0048663)",3.28056276282577
+"110","S_150ppm_1h","S_con_1h","'de novo' posttranslational protein folding (GO:0051084)",3.41395999613711
+"24","S_150ppm_1h","S_con_1h","L-serine metabolic process (GO:0006563)",3.41395999613711
+"32","S_150ppm_1h","S_con_1h","chaperone mediated protein folding requiring cofactor (GO:0051085)",3.41395999613711
+"22","S_150ppm_1h","S_con_1h","positive regulation of transcription, DNA-templated (GO:0045893)",3.5746011708892
+"13","S_150ppm_1h","S_con_1h","regulation of transcription from RNA polymerase II promoter (GO:0006357)",3.89326545348443
+"16","S_150ppm_1h","S_con_1h","positive regulation of transcription from RNA polymerase II promoter (GO:0045944)",4.31479089630726
+"25","S_50ppm_2h","S_con_2h","aromatic amino acid family catabolic process (GO:0009074)",2.7114681183471
+"42","S_50ppm_2h","S_con_2h","iron ion homeostasis (GO:0055072)",2.7114681183471
+"33","S_50ppm_2h","S_con_2h","tyrosine metabolic process (GO:0006570)",2.81847209813918
+"112","S_50ppm_2h","S_con_2h","inorganic cation import across plasma membrane (GO:0098659)",3.58451845092186
+"171","S_50ppm_2h","S_con_2h","defense response to Gram-negative bacterium (GO:0050829)",4.1182596988474
+"52","S_50ppm_2h","S_con_2h","defense response to bacterium (GO:0042742)",4.96846824743327
+"63","S_150ppm_2h","S_con_2h","negative regulation of cellular response to manganese ion (GO:1905803)",2.0141074813334
+"113","S_150ppm_2h","S_con_2h","tyrosine metabolic process (GO:0006570)",2.0141074813334
+"80","S_150ppm_2h","S_con_2h","ion transport (GO:0006811)",2.03426155082088
+"82","S_150ppm_2h","S_con_2h","pteridine-containing compound biosynthetic process (GO:0042559)",2.13348121408397
+"191","S_150ppm_2h","S_con_2h","anion transport (GO:0006820)",2.25702282757184
+"28","S_150ppm_2h","S_con_2h","negative regulation of cellular process (GO:0048523)",2.25911428320591
+"141","S_150ppm_2h","S_con_2h","inorganic cation import across plasma membrane (GO:0098659)",2.39841326701668
+"121","S_150ppm_2h","S_con_2h","glutathione metabolic process (GO:0006749)",2.47651262398477
+"102","S_150ppm_2h","S_con_2h","regulation of neuron death (GO:1901214)",2.56046154304271
+"72","S_150ppm_2h","S_con_2h","response to gamma radiation (GO:0010332)",2.65113768322139
+"27","S_150ppm_2h","S_con_2h","negative regulation of response to stimulus (GO:0048585)",2.72391032873685
+"54","S_150ppm_2h","S_con_2h","hexose metabolic process (GO:0019318)",2.85733024027855
+"34","S_150ppm_2h","S_con_2h","cysteine biosynthetic process (GO:0019344)",4.57785574592344
+"114","S_150ppm_2h","S_con_2h","cysteine biosynthetic process from serine (GO:0006535)",5.33593780302324
+"43","S_150ppm_2h","S_con_2h","defense response to bacterium (GO:0042742)",5.46756568476999
+"92","S_150ppm_2h","S_con_2h","defense response to Gram-negative bacterium (GO:0050829)",5.69323579246259
+"210","S_150ppm_2h","S_con_2h","L-serine metabolic process (GO:0006563)",6.2110630899888
+"151","S_50ppm_12h","S_con_12h","organic anion transport (GO:0015711)",2.23843885045957
+"211","S_50ppm_12h","S_con_12h","iron ion homeostasis (GO:0055072)",2.29383363338211
+"44","S_50ppm_12h","S_con_12h","peroxisome organization (GO:0007031)",2.29383363338211
+"221","S_50ppm_12h","S_con_12h","chemical homeostasis (GO:0048878)",2.68793585367932
+"421","S_50ppm_12h","S_con_12h","proteolysis (GO:0006508)",2.93157331573939
+"115","S_50ppm_12h","S_con_12h","lipid homeostasis (GO:0055088)",2.96358253660875
+"83","S_50ppm_12h","S_con_12h","defense response to Gram-positive bacterium (GO:0050830)",3.04523234408894
+"55","S_50ppm_12h","S_con_12h","defense response to bacterium (GO:0042742)",3.47269336345552
+"116","S_150ppm_12h","S_con_12h","olfactory learning (GO:0008355)",2.19873273222566
+"212","S_150ppm_12h","S_con_12h","UDP metabolic process (GO:0046048)",2.26026488377049
+"521","S_150ppm_12h","S_con_12h","defense response to Gram-negative bacterium (GO:0050829)",2.31309453346001
+"56","S_150ppm_12h","S_con_12h","primary alcohol metabolic process (GO:0034308)",2.40160049415104
+"64","S_150ppm_12h","S_con_12h","inorganic cation import across plasma membrane (GO:0098659)",2.58242905809964
+"73","S_150ppm_12h","S_con_12h","glycerophospholipid biosynthetic process (GO:0046474)",2.74621928188729
+"36","S_150ppm_12h","S_con_12h","cellular transition metal ion homeostasis (GO:0046916)",2.83776892480963
+"45","S_150ppm_12h","S_con_12h","defense response to Gram-positive bacterium (GO:0050830)",5.12956265495683
+"117","S_150ppm_12h","S_con_12h","defense response to bacterium (GO:0042742)",6.19123788282506
