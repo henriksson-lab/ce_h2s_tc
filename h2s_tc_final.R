@@ -261,12 +261,6 @@ plot_heatmap_highlight_genes <- function(highlight_genes){
   ptot <- p1|p2  
 }
 
-# highlight_genes <- c(
-#   "sqrd-1", "ethe-1", "gst-19", "gst-4", "gst-30", "ftn-1", "semo-1", "cysl-2", "clec-66", "clec-4", "hsp-70", "rhy-1", "hsp-16.41", 
-#   "hsp-16.2", "nhr-57", "mpst-3", "mpst-5", "sysm-1") 
-# ptot <- plot_heatmap_highlight_genes(highlight_genes)
-# ptot
-# ggsave("newout/heatmap/heatmap_tc_selected.pdf",ptot)
 
 
 highlight_genes <- unique(allde$geneid[allde$padj<1e-40])
@@ -285,7 +279,7 @@ read_one_de_list <- function(fname){
   delist <- read.csv(fname)
   delist <- delist[!is.na(delist$padj),]
   delist <- delist[order(delist$padj),]
-  delist[1:200,]$X
+  delist$X[!is.na(delist$padj) & delist$padj<1e-10]
 }
 
 list4venn <- list(
@@ -400,15 +394,3 @@ show_target_confidence(targets_hif1, "Hif-1")/
   show_target_confidence(targets_skn1, "Skn-1") 
 ggsave("newout/tftarget/barplot_tf_time.pdf", width = 3)
 
-
-# ############ skn1
-# for(curconc in c(50,150)){
-#   de <- delist[delist$conc==curconc,]
-#   de <- de[de$gene %in% targets_skn1,]  # & !is.na(de$padj) & de$padj<1e-3
-#   ggplot(de, aes(time, log2FoldChange, group=gene)) + geom_line()
-#   
-#   de <- delist[delist$conc==curconc,]
-#   de <- de[!(de$gene %in% targets_skn1),]
-#   #ggplot(de, aes(time, log2FoldChange, group=gene)) + geom_line()
-#   ggplot(de, aes(paste(time), log2FoldChange)) + geom_violin()
-# }
