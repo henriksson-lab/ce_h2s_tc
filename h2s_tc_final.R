@@ -17,11 +17,11 @@ library(gridExtra)
 ################################################################################
 
 ########### Count table
-cnt <- read.table("rnaseqdata/cnt_clean.csv")
+cnt <- read.table("cnt_clean.csv")
 
 
 ########### Condition data
-cond <- read.csv("rnaseqdata/cond.csv")
+cond <- read.csv("cond.csv")
 cond$raw_sample_name <- str_replace_all(cond$raw_sample_name, "-","_")
 cond$raw_sample_name[cond$mod_name!=""] <- cond$mod_name[cond$mod_name!=""]
 rownames(cond) <- cond$raw_sample_name
